@@ -16,4 +16,4 @@ Example:
 
     $ cat .buildpacks
     https://github.com/heroku/heroku-buildpack-ruby
-    https://github.com/jc4p/heroku-buildpack-gifsicle
+    https://github.com/kedareddy/heroku-buildpack-giflossy-master
