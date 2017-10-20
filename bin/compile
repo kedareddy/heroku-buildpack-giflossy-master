@@ -9,7 +9,7 @@ indent() {
 }
 
 VERSION="1.82.1"
-TAR_URL="https://http://kedareddy.com/gifsicle-$VERSION.tar.gz"
+TAR_URL="http://kedareddy.com/gifsicle-$VERSION.tar.gz"
 
 echo "-----> Installing gifsicle"
 
